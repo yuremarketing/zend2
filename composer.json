@@ -1,0 +1,14 @@
+{
+    "name": "vendor/zend2",
+    "description": "Descrição do projeto zend2.",
+    "authors": [
+        {
+            "name": "yurevick",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "neuweb/zendskeletonapplication": "dev-master"
+    }
+}
